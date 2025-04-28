@@ -67,3 +67,5 @@ The final dataset integrates location, demographic, crime type, and precinct met
 - Custom scraping scripts were used for precinct officer metadata from the official NYPD site.
 
 ---
+- [Crime in New York City | Power Bi](https://app.powerbi.com/links/Lh4eJUCFPP?ctid=7b331012-87a1-4a16-8b0f-a4605b1f3d7f&pbi_source=linkShare))  
+
